@@ -16,22 +16,22 @@ Content found at: [Tiny CTF 2014 write-ups](https://github.com/ctfs/write-ups/tr
 
 Extract the provided [stego100.zip](https://github.com/ctfs/write-ups/raw/master/tinyctf-2014/erik-baleog-and-olaf/stego100.zip) file:
 
-```bash
+{% highlight bash linenos %}
 $ unzip stego100.zip
 Archive:  stego100.zip
   inflating: stego100
-```
+{% endhighlight %}
 
 Well, what is this?
 
-```bash
+{% highlight bash linenos %}
 $ file stego100
 stego100: PNG image data, 640 x 480, 8-bit/color RGB, non-interlaced
-```
+{% endhighlight %}
 
 Looks like it's a PNG image, hmmm... *looks at image*, not much here?...Let's see what else is in there:
 
-```bash
+{% highlight bash linenos %}
 $ strings stego100 | tail
 `ML|w
 {>+_O
@@ -43,7 +43,7 @@ LdfO;
 #tEXthint
 http://i.imgur.com/22kUrzm.png
 IEND
-```
+{% endhighlight %}
 
 Well look at that, a URL...*visits URL*...it's the same image... or is it!?
 
@@ -51,10 +51,10 @@ Well look at that, a URL...*visits URL*...it's the same image... or is it!?
 
 ![](https://raw.githubusercontent.com/ctfs/write-ups/master/tinyctf-2014/erik-baleog-and-olaf/hint.png)
 
-```bash
+{% highlight bash linenos %}
 $ diff stego100 22kUrzm.png
 Binary files stego100 and 22kUrzm.png differ
-```
+{% endhighlight %}
 
 Ah ha! So something is going on, let's write a script and see if we can find out what.
 
