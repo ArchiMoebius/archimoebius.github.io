@@ -14,8 +14,6 @@ meta:
 
 Content found at: [Tiny CTF 2014 write-ups](https://github.com/ctfs/write-ups/tree/master/tinyctf-2014/not-exactly-alcatraz "TinyCTF 2014 write-ups")
 
-Extract the provided [stego200.zip](https://github.com/ctfs/write-ups/raw/master/tinyctf-2014/not-exactly-alcatraz/pwn200.zip) file:
-
 Un-zip [the provided `pwn200.zip` file](https://github.com/ctfs/write-ups/raw/master/tinyctf-2014/not-exactly-alcatraz/pwn200.zip):
 
 {% highlight bash linenos %}
