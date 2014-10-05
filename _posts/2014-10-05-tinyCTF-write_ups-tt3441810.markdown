@@ -14,7 +14,7 @@ meta:
 
 Content found at: [Tiny CTF 2014 write-ups](https://github.com/ctfs/write-ups/tree/master/tinyctf-2014/tt3441810 "TinyCTF 2014 write-ups")
 
-Un-zip [the provided `misc10.zip` file](https://github.com/ctfs/write-ups/raw/master/tinyctf-2014/tt3441810/rev100.zip):
+Un-zip [the provided `rev100.zip` file](https://github.com/ctfs/write-ups/raw/master/tinyctf-2014/tt3441810/rev100.zip):
 
 {% highlight bash linenos %}
 $ unzip rev100.zip
