@@ -1,0 +1,17 @@
+---
+layout: post
+title: Password Panic
+categories:
+- Posits
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+            Passwords, we use these little suckers every day; from accessing E-Mail to logging onto computers. The “Professionals” tell us that “for securities sake” we must use a different password for everything! OUCH!!! If I used a different password for everything I accessed I would end up trying to remember anywhere from 10-45 passwords. The only people I know that can remember that many passwords are either geniuses or they use the same password for everything. There has to be a better way for us normal people to remember/use different passwords. There are a couple of different approaches people take when it comes to remembering passwords; software, writing, memorization or my way.
+
+            Some really lazy people who keep the keys to their kingdom all in one place use a software managing utility like “password agent” from http://www.moonsoftware.com. This is an extremely insecure method to use. For example, all an attacker has to crack is one password and they are given all of them. This method of storing passwords is just as useless as using the same password for everything. Those who are more “organized” write down all their passwords (not as bad as using the same one for everything). Unless, of course, you’re smart enough to hide that little slip of paper you wrote down your office’s computer password on in that really sneaky place; under your keyboard! Super Geniuses don’t have to bother with writing their passwords down, using a utility or using the same one. They just memorize all of them nice and quick. But, since we are talking about normal people here who have better things to do with their lives than memorize fifty plus passwords, let’s move one. My way of password generation is simple, quick and nigh impossible to crack. Well. as long as you don’t talk about it in your sleep.
+
+            In Algebra, mathematicians use functions for a lot junk. Basically, all functions do is take an expression in and return something that is changed along a set method. Now back to the world of passwords and normal people. We can do the same thing with our passwords. If we apply the genius of mathematics to English all we have to remember is a base password. This base password is never used anywhere ever. You memorize your base password (which in our example will be “passwordstink”), basing all your other passwords off the base. Example: Let’s take your base password “passwordstink” (without the quotes of course)and choose a password for your GMail account. All you have to do is change your base “passwordstink” according to your formula. In this example we will use the first two last two formula. So, your password “passwordstink” would be transmogrified into “GMpasswordstinkil” add you mom’s birthday “09GMpasswordstinkil43” and you’ve got one heck of a strong password. Here is another example: say you work at Wal-Mart and you need to create a password for your register. Take your base password “passwordstink” use your formula, add some meaningful numbers and boom there’s an unforgettable password that you can forget anytime you want. Say we used the same formula as the first example, your register password would be “09Wapasswordstinkrt43”. WOW!!! A normal person just created a password that is nigh un-crack-able and takes less than 10 seconds to remember. Goodbye Software, Geniuses, writing and crackers.
