@@ -1,3 +1,3 @@
 [submodule "breakout-clone"]
 	path = breakout-clone
-	url = git@github.com:poerhiza/breakout-clone.git
+	url = https://github.com/poerhiza/breakout-clone.git
